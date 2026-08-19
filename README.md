@@ -1,38 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=160&section=header&text=Devasena%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Devasena%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20AI%20Builder&descAlignY=55&descSize=18" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%26+AI+Developer;Building+NiruX;Passionate+about+DSA+%26+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=800&lines=Software+Engineer;Python+%26+AI+Developer;Building+NiruX;Mastering+DSA;Open+to+Opportunities" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-### 👋 About Me
-
-I'm **Devasena K**, a Software Engineer from India with a B.E. in Electrical & Electronics Engineering.  
-
-I focus on building practical AI applications, Python backends, and production-ready systems. Currently deep-diving into Data Structures & Algorithms while shipping real projects.
-
-**Currently open to** Software Engineering / AI / Full-Stack roles (Remote or Hybrid).
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devasena-K09&style=for-the-badge&color=FF003C" alt="Profile Views"/>
+</div>
 
 ---
 
-### 🎯 Current Focus
-- Mastering Data Structures & Algorithms
-- Building **NiruX** — AI-powered multi-utility platform
-- Learning Cloud, System Design & production practices
-- Shipping real-world applications with Python, Flutter & AI
+### 👋 About Me
+
+I'm **Devasena K** — Software Engineer from India (B.E. Electrical & Electronics Engineering).  
+
+I build practical AI applications, Python backends, and production-ready systems. Currently focused on Data Structures & Algorithms while shipping real products.
+
+**Open to** Software Engineering / AI / Full-Stack roles (Remote or Hybrid).
+
+---
+
+### 🎯 Current Mission
+- Master Data Structures & Algorithms
+- Build **NiruX** AI Ecosystem
+- Learn Cloud & System Design
+- Ship production-grade applications
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
@@ -51,14 +59,19 @@ I focus on building practical AI applications, Python backends, and production-r
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devasena-K09&theme=radical&row=1&column=7&margin-w=8" />
+</p>
+
+---
+
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,flutter,firebase,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,flutter,firebase,git,github,vscode,androidstudio&theme=dark" />
 </p>
-
-**Languages:** Python • Java • C • C# • JavaScript  
-**Frameworks & Tools:** Flutter • Firebase • Git • GitHub • VS Code • Android Studio
 
 ---
 
@@ -82,20 +95,20 @@ I focus on building practical AI applications, Python backends, and production-r
 ### 🚀 Featured Projects
 
 **🤖 NiruX**  
-AI-powered multi-utility platform featuring AI Chat, Resume Assistant, Productivity Tools, and a growing AI Agent ecosystem.
+AI-powered multi-utility platform with AI Chat, Resume Assistant, Productivity Tools and future AI Agent ecosystem.
 
 **💬 Real-Time Chat Application**  
-Python-based chat system with REST APIs, WebSockets, session management and real-time communication.
+Python + REST APIs + WebSockets + Session Management for real-time communication.
 
 **🤖 Commercial Robotic Cleaner**  
-Embedded systems project involving sensors, control systems and hardware integration.
+Embedded systems project with sensors, control systems and hardware integration.
 
 ---
 
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=radical&hide_border=true&area=true" />
 </p>
 
 ---
@@ -103,7 +116,7 @@ Embedded systems project involving sensors, control systems and hardware integra
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:Ydevasenaks09@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Devasena-K09">
@@ -117,7 +130,5 @@ Embedded systems project involving sensors, control systems and hardware integra
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-  <br/>
-  <strong>Building today for tomorrow ⚡</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=Building%20Today%20For%20Tomorrow&fontSize=22&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
