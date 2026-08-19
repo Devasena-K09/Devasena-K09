@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,25&text=DEVASENA%20K&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,25&text=DEVASENA%20K&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Profile;Software+Engineer;AI+Builder;Python+Developer;Building+NiruX;Learning+Data+Structures+%26+Algorithms;Future+Tech+Founder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Profile;Software+Engineer;AI+Builder;Founder+of+NiruX;Learning+Data+Structures+%26+Algorithms;Building+Real+Products;Future+Tech+Entrepreneur"/>
 
 <br>
 
@@ -12,30 +12,36 @@
 
 ---
 
-# 👋 Hello, I'm Devasena K
+# 👋 About Me
 
-🎓 B.E. in Electrical & Electronics Engineering
-
-💻 Software Engineer passionate about building products
-
-🤖 Building **NiruX AI Platform**
-
-📚 Currently learning **Data Structures & Algorithms**
-
-☁️ Exploring Cloud Technologies & Generative AI
-
-🚀 Working towards becoming a top Software Engineer
+- 🎓 B.E. in Electrical & Electronics Engineering
+- 💻 Software Engineer passionate about building products
+- 🤖 Founder & Builder of **NiruX**
+- 📚 Currently learning **Data Structures & Algorithms**
+- ☁️ Exploring Cloud Technologies & Generative AI
+- 🚀 Working toward becoming a top Software Engineer
 
 ---
 
-# ⚡ Current Focus
+# 🎯 Current Focus
 
-- Data Structures & Algorithms
-- Python Development
-- AI Applications
-- Flutter Development
-- Cloud Technologies
-- System Design Fundamentals
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - Python Development
+  - System Design
+
+Building:
+  - NiruX AI Platform
+
+Exploring:
+  - Cloud Technologies
+  - Generative AI
+  - Scalable Applications
+
+Goal:
+  - Build products used by millions
+```
 
 ---
 
@@ -44,18 +50,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,flutter,firebase,git,github,vscode,androidstudio"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -71,31 +65,11 @@
 
 ---
 
-# 🏆 Achievement Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devasena-K09&theme=radical&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 ## 🤖 NiruX
 
-AI-powered multi-utility platform focused on:
+AI-powered platform focused on:
 
 - AI Chat
 - Productivity Tools
@@ -106,7 +80,7 @@ AI-powered multi-utility platform focused on:
 
 ## 📚 DSA-Python
 
-My journey of learning and documenting:
+My complete journey of learning:
 
 - Arrays
 - Strings
@@ -122,24 +96,13 @@ My journey of learning and documenting:
 
 ---
 
-## 💬 Real-Time Applications
+## 🌐 Portfolio Website
 
-Projects involving:
+Personal website showcasing:
 
-- Python
-- APIs
-- Real-Time Communication
-- Software Development
-
----
-
-# 🎯 2026 Goals
-
-- Complete DSA Roadmap
-- Build NiruX Ecosystem
-- Strengthen GitHub Portfolio
-- Learn Cloud & System Design
-- Secure Software Engineering Role
+- Projects
+- Skills
+- Development Journey
 
 ---
 
@@ -155,7 +118,7 @@ Projects involving:
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect
 
 <div align="center">
 
@@ -169,7 +132,7 @@ Projects involving:
 
 <div align="center">
 
-### ⚡ BUILD • LEARN • SHIP ⚡
+## ⚡ BUILD • LEARN • SHIP ⚡
 
 *"Consistency beats motivation."*
 
