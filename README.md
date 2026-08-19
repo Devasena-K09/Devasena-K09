@@ -1,166 +1,95 @@
-<h1 align="center">Hi 👋, I'm Devasena K</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Python Developer • AI Builder
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&height=80&lines=⚡+WELCOME+TO+MY+PROFILE+⚡;DEVASENA+K;SOFTWARE+ENGINEER;AI+BUILDER;PYTHON+DEVELOPER;BUILDING+NIRUX;FUTURE+TECH+FOUNDER" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+NiruX;Learning+Data+Structures+%26+Algorithms;Python+Developer;AI+Application+Builder;Future+Software+Development+Engineer" />
-</p>
+<br>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVASENA%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&color=0:8B0000,50:FF003C,100:000000"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DEVASENA%20K&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling&fontSize=55&fontColor=ffffff"/>
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 B.E. in Electrical & Electronics Engineering
-- 💻 Software Engineer passionate about building products
-- 🤖 Working on AI-powered applications
-- ☁️ Exploring Cloud Technologies & Generative AI
-- 📚 Currently learning Data Structures & Algorithms
-- 🚀 Building **NiruX AI Platform**
+```yaml
+Name: Devasena K
 
----
+Degree:
+  Bachelor of Engineering
+  Electrical & Electronics Engineering
 
-# 🛠️ Tech Stack
+Current Focus:
+  - Data Structures & Algorithms
+  - Python Development
+  - AI Applications
+  - Cloud Technologies
+  - Flutter Development
 
-### Languages
+Building:
+  - NiruX AI Platform
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
-
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
-
----
-
-# 🎯 Current Focus
-
-```text
-✔ Python Development
-
-✔ AI Applications
-
-✔ NiruX Development
-
-✔ GitHub Portfolio
-
-✔ Data Structures & Algorithms
-
-✔ Software Engineering
+Goal:
+  - Become Software Engineer
+  - Build Real Products
+  - Launch Technology Startup
 ```
 
 ---
 
-# 📚 DSA Journey
+# ⚔️ Current Mission
 
-```text
-Arrays                ████████░░ 80%
+🔥 Master DSA
 
-Strings               ███████░░░ 70%
+🤖 Build NiruX
 
-Recursion             ██████░░░░ 60%
+☁️ Learn Cloud
 
-Searching             ██████░░░░ 60%
+📱 Build Production Apps
 
-Sorting               ██████░░░░ 60%
-
-Linked Lists          ████░░░░░░ 40%
-
-Stacks                ████░░░░░░ 40%
-
-Queues                ███░░░░░░░ 30%
-
-Trees                 ██░░░░░░░░ 20%
-
-Graphs                ██░░░░░░░░ 20%
-
-Dynamic Programming   █░░░░░░░░░ 10%
-```
+🚀 Become Top Software Engineer
 
 ---
 
-# 🚀 Featured Projects
+# 📊 GitHub Analytics
 
-## 🤖 NiruX
+<div align="center">
 
-AI-powered application platform featuring:
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true"/>
 
-- AI Agents
-- Smart Chat
-- Resume Builder
-- Productivity Tools
-- Voice AI
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true"/>
 
----
-
-## 💬 TitanChatX
-
-Communication + Gaming ecosystem concept.
-
-Features:
-
-- Realtime Chat
-- Gaming Integration
-- Community System
-- AI Support
-
----
-
-## 📘 DSA-Python
-
-My complete Data Structures & Algorithms learning repository.
-
-Topics:
-
-- Arrays
-- Strings
-- Recursion
-- Searching
-- Sorting
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Dynamic Programming
+</div>
 
 ---
 
 # 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Devasena-K09&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasena-K09&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievement Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Devasena-K09&theme=radical&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=redical"/>
+
+</div>
 
 ---
 
@@ -178,24 +107,76 @@ Topics:
 
 ---
 
-# 🌐 Connect With Me
+# 💻 Tech Arsenal
 
-<p align="center">
+### Languages
 
-<a href="https://github.com/Devasena-K09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![c](https://skillicons.dev/icons?i=c)
+![cs](https://skillicons.dev/icons?i=cs)
+![javascript](https://skillicons.dev/icons?i=javascript)
 
 ---
 
-<p align="center">
+### Tools & Technologies
 
-![](https://komarev.com/ghpvc/?username=Devasena-K09&color=red)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 
-</p>
+---
 
-<h3 align="center">
-⚡ Building • Learning • Growing ⚡
-</h3>
+# 🚀 Featured Projects
+
+## 🤖 NiruX
+
+AI-powered multi-utility platform
+
+- AI Chat
+- Resume Assistant
+- AI Agents
+- Productivity Tools
+
+---
+
+## 📚 DSA Journey
+
+Currently solving and documenting:
+
+✅ Arrays
+
+✅ Strings
+
+✅ Recursion
+
+🚧 Searching
+
+🚧 Sorting
+
+🚧 Linked Lists
+
+🚧 Stacks
+
+🚧 Queues
+
+🚧 Trees
+
+🚧 Graphs
+
+🚧 Dynamic Programming
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge"/>
+
+<br><br>
+
+### ⚡ BUILDING TODAY FOR TOMORROW ⚡
+
+</div>
