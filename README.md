@@ -1,156 +1,240 @@
 <div align="center">
 
-# ⚡ DEVASENA K ⚡
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=2000&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=DEVASENA+K;SOFTWARE+ENGINEER;AI+BUILDER;CREATING+NIRUX;LEARNING+DSA;FUTURE+SDE" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Builder;Python+Developer;Building+NiruX;Learning+Data+Structures+%26+Algorithms;Future+SDE" />
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=WELCOME%20TO%20MY%20GITHUB&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:ff003c,50:8b0000,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=NIRUX%20COMMAND%20CENTER&fontColor=ffffff&fontSize=40&animation=fadeIn&color=0:000000,50:8B0000,100:FF003C"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ⚡ SYSTEM STATUS
 
-```yaml
-Name: Devasena K
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Degree:
-  - B.E Electrical & Electronics Engineering
+STATUS        : ONLINE
 
-Role:
-  - Software Engineer
+USER          : DEVASENA K
 
-Current Focus:
-  - Data Structures & Algorithms
-  - Python Development
-  - AI Applications
-  - Flutter Development
-  - Cloud Technologies
+ROLE          : SOFTWARE ENGINEER
 
-Building:
-  - NiruX AI Platform
-  - TitanChatX
+LOCATION      : INDIA
 
-Goal:
-  - Software Development Engineer
+AI CORE       : ACTIVE
+
+SECURITY MODE : RED
+
+MISSION       : BUILD NIRUX
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# 🎯 Current Mission
+# 🎯 CURRENT OBJECTIVES
 
-- 🔥 Master Data Structures & Algorithms
-- 🔥 Build Production Ready Projects
-- 🔥 Grow NiruX AI Ecosystem
-- 🔥 Contribute to Open Source
-- 🔥 Crack SDE Interviews
+```text
+[✓] Learn Python
+
+[✓] Build GitHub Portfolio
+
+[✓] Build NiruX
+
+[✓] Complete Arrays
+
+[ ] Master DSA
+
+[ ] Open Source Contributions
+
+[ ] Software Development Engineer
+
+[ ] Product Founder
+```
 
 ---
 
-# ⚙️ Tech Stack
+# 🚀 ABOUT ME
+
+```yaml
+Name:
+  Devasena K
+
+Degree:
+  Bachelor of Engineering
+
+Branch:
+  Electrical & Electronics Engineering
+
+Interests:
+  - Artificial Intelligence
+  - Software Development
+  - Data Structures
+  - Cloud Technologies
+  - Product Building
+
+Currently Building:
+  - NiruX
+
+Current Learning:
+  - Data Structures & Algorithms
+```
+
+---
+
+# ⚙️ TECH STACK
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### App Development
+---
+
+### Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 
-### Backend & Cloud
-
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
 ### AI
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+
 ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
 
 ---
 
-# 📚 DSA Journey
+# 📚 DSA PROGRESS
 
 ```text
 Arrays                ████████░░ 80%
+
 Strings               ███████░░░ 70%
+
 Recursion             ██████░░░░ 60%
+
 Searching             ██████░░░░ 60%
+
 Sorting               ██████░░░░ 60%
+
 Linked Lists          ████░░░░░░ 40%
+
 Stacks                ████░░░░░░ 40%
+
 Queues                ███░░░░░░░ 30%
+
 Trees                 ██░░░░░░░░ 20%
+
 Graphs                ██░░░░░░░░ 20%
+
 Dynamic Programming   █░░░░░░░░░ 10%
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ## 🤖 NiruX
 
-AI-powered application platform featuring:
+```text
+AI Platform
 
-- AI Agents
-- Voice AI
-- Resume Builder
-- Smart Chat System
-- Productivity Tools
+STATUS : ACTIVE DEVELOPMENT
+
+FEATURES
+
+• AI Agents
+
+• Smart Chat
+
+• Resume Builder
+
+• Productivity Tools
+
+• Voice AI
+```
 
 ---
 
 ## 💬 TitanChatX
 
-Communication + Gaming ecosystem concept
+```text
+Communication + Gaming Concept
 
-Features:
+FEATURES
 
-- Realtime Chat
-- Gaming Integration
-- Community System
-- AI Support
+• Realtime Chat
+
+• Community System
+
+• Gaming Integration
+
+• AI Support
+```
 
 ---
 
 ## 📘 DSA-Python
 
-My complete Data Structures & Algorithms journey repository.
+```text
+Repository For DSA Journey
 
-Topics:
+TOPICS
 
-- Arrays
-- Strings
-- Recursion
-- Sorting
-- Searching
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Graphs
-- Dynamic Programming
+• Arrays
+
+• Strings
+
+• Recursion
+
+• Sorting
+
+• Searching
+
+• Linked Lists
+
+• Stacks
+
+• Queues
+
+• Trees
+
+• Graphs
+```
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 CONTRIBUTION STREAK
 
-<p align="center">
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=Devasena-K09&theme=tokyonight&hide_border=true"/>
-</p>
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -164,15 +248,15 @@ Topics:
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Devasena-K09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -180,6 +264,6 @@ Topics:
 
 ![](https://komarev.com/ghpvc/?username=Devasena-K09&color=red)
 
-### ⚡ Building • Learning • Growing ⚡
+### ⚡ BUILDING • LEARNING • GROWING ⚡
 
 </div>
