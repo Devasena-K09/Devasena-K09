@@ -1,57 +1,99 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&section=header&text=DEVASENA%20K&fontSize=54&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Python%20Developer&descSize=16&descAlignY=58&descColor=A0A0FF" width="100%"/>
-</div>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=42&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&height=80&lines=⚡+WELCOME+TO+MY+PROFILE+⚡;DEVASENA+K;SOFTWARE+ENGINEER;AI+BUILDER;PYTHON+DEVELOPER;BUILDING+NIRUX;FUTURE+TECH+FOUNDER" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+intelligent+systems;Python+%2B+AI+%2B+Flutter;Creating+NiruX;Always+learning+%26+shipping" alt="Typing Animation"/>
-</div>
+<br>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=DEVASENA%20K&fontAlign=50&fontAlignY=40&color=gradient&animation=twinkling&fontSize=55&fontColor=ffffff"/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=Profile+Views&color=00F0FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Devasena-K09?label=Followers&color=00F0FF&style=flat-square" />
 </div>
 
 ---
 
-### 👨‍💻 About
+# 🚀 About Me
 
-Hey, I'm **Devasena K** from India.  
-Electrical & Electronics Engineer turned Software Engineer.
+```yaml
+Name: Devasena K
 
-I build practical AI tools, backend systems, and mobile apps. Currently focused on mastering DSA while developing **NiruX** — an AI-powered multi-utility platform.
+Degree:
+  Bachelor of Engineering
+  Electrical & Electronics Engineering
 
-**Open to Software Engineering / AI / Full-Stack opportunities** (Remote or Hybrid).
+Current Focus:
+  - Data Structures & Algorithms
+  - Python Development
+  - AI Applications
+  - Cloud Technologies
+  - Flutter Development
+
+Building:
+  - NiruX AI Platform
+
+Goal:
+  - Become Software Engineer
+  - Build Real Products
+  - Launch Technology Startup
+```
 
 ---
 
-### 🔥 What I'm Working On
+# ⚔️ Current Mission
 
-- Mastering Data Structures & Algorithms
-- Building **NiruX** AI Platform
-- Learning Cloud & System Design
-- Shipping production-ready applications
+🔥 Master DSA
+
+🤖 Build NiruX
+
+☁️ Learn Cloud
+
+📱 Build Production Apps
+
+🚀 Become Top Software Engineer
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
-</div>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Devasena-K09&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true"/>
+
 </div>
 
 ---
 
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasena-K09&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievement Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Devasena-K09&theme=radical&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=redical"/>
+
+</div>
+
+---
+
+</div>
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -64,24 +106,75 @@ I build practical AI tools, backend systems, and mobile apps. Currently focused 
 
 ---
 
-### 🛠️ Tech Stack
+# 💻 Tech Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,flutter,firebase,git,github,vscode,androidstudio&theme=dark" />
-</div>
+### Languages
+
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![c](https://skillicons.dev/icons?i=c)
+![cs](https://skillicons.dev/icons?i=cs)
+![javascript](https://skillicons.dev/icons?i=javascript)
 
 ---
 
-### 🧠 DSA Progress
+### Tools & Technologies
 
-```text
-Arrays              ████████████████████  Done
-Strings             ████████████████████  Done
-Recursion           ████████████████████  Done
-Searching           ██████████████░░░░░░  In Progress
-Sorting             ██████████████░░░░░░  In Progress
-Linked Lists        ████████░░░░░░░░░░░░  In Progress
-Stacks & Queues     ████████░░░░░░░░░░░░  In Progress
-Trees               ░░░░░░░░░░░░░░░░░░░░  Upcoming
-Graphs              ░░░░░░░░░░░░░░░░░░░░  Upcoming
-Dynamic Programming ░░░░░░░░░░░░░░░░░░░░  Upcoming
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Git](https://skillicons.dev/icons?i=git)
+![Github](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 NiruX
+
+AI-powered multi-utility platform
+
+- AI Chat
+- Resume Assistant
+- AI Agents
+- Productivity Tools
+
+---
+
+## 📚 DSA Journey
+
+Currently solving and documenting:
+
+✅ Arrays
+
+✅ Strings
+
+✅ Recursion
+
+🚧 Searching
+
+🚧 Sorting
+
+🚧 Linked Lists
+
+🚧 Stacks
+
+🚧 Queues
+
+🚧 Trees
+
+🚧 Graphs
+
+🚧 Dynamic Programming
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge"/>
+
+<br><br>
+
+### ⚡ BUILDING TODAY FOR TOMORROW ⚡
+
