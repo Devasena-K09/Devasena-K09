@@ -1,67 +1,111 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Devasena K</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,25&text=DEVASENA%20K&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+<h3 align="center">
+Software Engineer • Python Developer • AI Builder
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=1000&lines=Welcome+To+My+GitHub+Profile;Software+Engineer;AI+Builder;Founder+of+NiruX;Learning+Data+Structures+%26+Algorithms;Building+Real+Products;Future+Tech+Entrepreneur"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+NiruX;Learning+Data+Structures+%26+Algorithms;Python+Developer;AI+Application+Builder;Future+Software+Development+Engineer" />
+</p>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge"/>
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVASENA%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&color=0:8B0000,50:FF003C,100:000000"/>
+</p>
 
 ---
 
-# 👋 About Me
+# 🚀 About Me
 
 - 🎓 B.E. in Electrical & Electronics Engineering
 - 💻 Software Engineer passionate about building products
-- 🤖 Founder & Builder of **NiruX**
-- 📚 Currently learning **Data Structures & Algorithms**
+- 🤖 Working on AI-powered applications
 - ☁️ Exploring Cloud Technologies & Generative AI
-- 🚀 Working toward becoming a top Software Engineer
-
----
-
-# 🎯 Current Focus
-
-```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Python Development
-  - System Design
-
-Building:
-  - NiruX AI Platform
-
-Exploring:
-  - Cloud Technologies
-  - Generative AI
-  - Scalable Applications
-
-Goal:
-  - Build products used by millions
-```
+- 📚 Currently learning Data Structures & Algorithms
+- 🚀 Building **NiruX AI Platform**
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,flutter,firebase,git,github,vscode,androidstudio"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-# 🔥 Contribution Streak
+### Development
 
-<div align="center">
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasena-K09&theme=radical&hide_border=true"/>
+![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white)
 
-</div>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
+
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
+
+---
+
+# 🎯 Current Focus
+
+```text
+✔ Python Development
+
+✔ AI Applications
+
+✔ NiruX Development
+
+✔ GitHub Portfolio
+
+✔ Data Structures & Algorithms
+
+✔ Software Engineering
+```
+
+---
+
+# 📚 DSA Journey
+
+```text
+Arrays                ████████░░ 80%
+
+Strings               ███████░░░ 70%
+
+Recursion             ██████░░░░ 60%
+
+Searching             ██████░░░░ 60%
+
+Sorting               ██████░░░░ 60%
+
+Linked Lists          ████░░░░░░ 40%
+
+Stacks                ████░░░░░░ 40%
+
+Queues                ███░░░░░░░ 30%
+
+Trees                 ██░░░░░░░░ 20%
+
+Graphs                ██░░░░░░░░ 20%
+
+Dynamic Programming   █░░░░░░░░░ 10%
+```
 
 ---
 
@@ -69,18 +113,34 @@ Goal:
 
 ## 🤖 NiruX
 
-AI-powered platform focused on:
+AI-powered application platform featuring:
 
-- AI Chat
+- AI Agents
+- Smart Chat
+- Resume Builder
 - Productivity Tools
-- Resume Assistant
-- Future AI Agent Ecosystem
+- Voice AI
 
 ---
 
-## 📚 DSA-Python
+## 💬 TitanChatX
 
-My complete journey of learning:
+Communication + Gaming ecosystem concept.
+
+Features:
+
+- Realtime Chat
+- Gaming Integration
+- Community System
+- AI Support
+
+---
+
+## 📘 DSA-Python
+
+My complete Data Structures & Algorithms learning repository.
+
+Topics:
 
 - Arrays
 - Strings
@@ -96,44 +156,46 @@ My complete journey of learning:
 
 ---
 
-## 🌐 Portfolio Website
+# 🔥 Contribution Streak
 
-Personal website showcasing:
-
-- Projects
-- Skills
-- Development Journey
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Devasena-K09&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 ---
 
-# 📫 Connect
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/Devasena-K09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
 
-## ⚡ BUILD • LEARN • SHIP ⚡
+![](https://komarev.com/ghpvc/?username=Devasena-K09&color=red)
 
-*"Consistency beats motivation."*
+</p>
 
-</div>
+<h3 align="center">
+⚡ Building • Learning • Growing ⚡
+</h3>
