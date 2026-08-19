@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:ff003c,50:7a001c,100:000000&text=DEVASENA%20K&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVASENA%20K&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:ff003c,100:111111"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=FF003C&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Builder;Python+Developer;Building+NiruX;Learning+Data+Structures+%26+Algorithms;Future+Tech+Founder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Builder;Python+Developer;Building+NiruX;Learning+DSA;Future+Tech+Founder"/>
 
 <br>
 
@@ -14,41 +14,23 @@
 
 # 🚀 About Me
 
-```yaml
-Name: Devasena K
-
-Education:
-  - B.E Electrical & Electronics Engineering
-
-Role:
-  - Software Engineer
-  - Python Developer
-
-Current Focus:
-  - Data Structures & Algorithms
-  - AI Applications
-  - Flutter Development
-  - Cloud Technologies
-  - System Design
-
-Building:
-  - NiruX AI Platform
-
-Goal:
-  - Become a Software Engineer
-  - Build Real Products
-```
+- 🎓 B.E. in Electrical & Electronics Engineering
+- 💻 Software Engineer & Python Developer
+- 🤖 Building **NiruX AI Platform**
+- ☁️ Exploring Cloud Technologies & Generative AI
+- 📚 Learning Data Structures & Algorithms
+- 🚀 Passionate about building real-world software products
 
 ---
 
-# ⚔️ Current Mission
+# ⚔️ Current Focus
 
-- 📚 Master Data Structures & Algorithms
-- 🧠 Improve Problem Solving
-- 🤖 Build NiruX Ecosystem
-- ☁️ Learn Cloud Technologies
-- 🏗️ Strengthen Software Engineering Skills
-- 🚀 Build Production Ready Applications
+- Data Structures & Algorithms
+- Python Development
+- AI Applications
+- Flutter Development
+- Cloud Technologies
+- System Design Fundamentals
 
 ---
 
@@ -57,15 +39,9 @@ Goal:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
-
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-
-  <img alt="Snake Animation"
-  src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -76,9 +52,9 @@ Goal:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -88,7 +64,27 @@ Goal:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Devasena-K09&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasena-K09&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievement Wall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Devasena-K09&theme=radical&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=react-dark"/>
 
 </div>
 
@@ -96,11 +92,30 @@ Goal:
 
 # 💻 Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript,flutter,firebase,git,github,vscode,androidstudio"/>
+<p>
 
-</div>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=cs" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+
+</p>
+
+### Frameworks & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=androidstudio" />
+
+</p>
 
 ---
 
@@ -126,46 +141,45 @@ Goal:
 
 ## 🤖 NiruX
 
-AI-powered platform focused on:
+AI-powered multi-utility platform focused on:
 
 - AI Chat
-- Resume Assistant
 - Productivity Tools
-- AI Agents
-- Future AI Ecosystem
+- Resume Assistant
+- Future AI Agent Ecosystem
 
 ---
 
 ## 💬 Real-Time Chat Application
 
-Built with:
+Built using:
 
 - Python
-- APIs
+- REST APIs
+- WebSockets
 - Session Management
-- Real-Time Communication
+- Real-time Communication
 
 ---
 
 ## 🤖 Commercial Robotic Cleaner
 
-Engineering Project featuring:
+Engineering project featuring:
 
-- Sensors
 - Embedded Systems
-- Automation
+- Sensors
 - Control Systems
+- Hardware Integration
 
 ---
 
 # 🎯 2026 Goals
 
-- Complete DSA Roadmap
-- Build NiruX Ecosystem
-- Learn Cloud Technologies
-- Learn System Design
-- Strengthen GitHub Portfolio
-- Secure Software Engineering Role
+- Complete DSA roadmap
+- Strengthen GitHub portfolio
+- Build NiruX ecosystem
+- Learn Cloud & System Design
+- Secure Software Engineering role
 
 ---
 
@@ -174,9 +188,7 @@ Engineering Project featuring:
 <div align="center">
 
 <a href="https://github.com/Devasena-K09">
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
 </div>
@@ -185,6 +197,6 @@ Engineering Project featuring:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=700&lines=BUILDING+TODAY+FOR+TOMORROW;KEEP+LEARNING+KEEP+BUILDING;NIRUX+IN+PROGRESS"/>
+## ⚡ BUILDING TODAY FOR TOMORROW ⚡
 
 </div>
