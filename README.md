@@ -125,14 +125,19 @@
 | Arrays | ✅ |
 | Strings | ✅ |
 | Recursion | ✅ |
-| Searching | 🚧 |
-| Sorting | 🚧 |
-| Linked Lists | 🚧 |
-| Stacks | 🚧 |
-| Queues | 🚧 |
-| Trees | 🚧 |
-| Graphs | 🚧 |
-| Dynamic Programming | 🚧 |
+| Searching | ✅ |
+| Sorting | ✅ |
+| Linked Lists | ✅ |
+| Stacks | ✅ |
+| Queues | ✅ |
+| Trees | ✅ |
+| Graphs | ✅ |
+| Dynamic Programming | ✅ |
+| Backtracking | ✅ |
+| Greedy | ✅ |
+| Hashing | ✅ |
+| Binary Search Tree | ✅ |
+| SQL | ✅ |
 
 ---
 
