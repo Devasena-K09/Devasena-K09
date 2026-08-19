@@ -48,15 +48,14 @@
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 Featured Repositories
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
+| Repository | Description |
+|------------|------------|
+| ⭐ DSA-Python | Data Structures and Algorithms in Python |
+| ⭐ OOP-Python | Object Oriented Programming Concepts |
+| ⭐ SQL-Practice | SQL Interview Preparation |
+| ⭐ NiruX | AI Platform Project |
 
 ---
 
