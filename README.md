@@ -1,149 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Devasena%20K&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=30&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Python%20Developer&descAlignY=52&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&section=header&text=DEVASENA%20K&fontSize=54&fontColor=00F0FF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Python%20Developer&descSize=16&descAlignY=58&descColor=A0A0FF" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2200&pause=600&color=FF003C&center=true&vCenter=true&width=900&lines=Software+Engineer;Python+%26+AI+Developer;Building+NiruX+AI+Platform;Mastering+DSA+%26+System+Design;Open+to+Opportunities" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+intelligent+systems;Python+%2B+AI+%2B+Flutter;Creating+NiruX;Always+learning+%26+shipping" alt="Typing Animation"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=Profile%20Views&style=for-the-badge&color=FF003C" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Devasena-K09?label=Followers&style=for-the-badge&color=FF003C" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=Profile+Views&color=00F0FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Devasena-K09?label=Followers&color=00F0FF&style=flat-square" />
 </div>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About
 
-**Devasena K** — Software Engineer from India  
-B.E. Electrical & Electronics Engineering  
+Hey, I'm **Devasena K** from India.  
+Electrical & Electronics Engineer turned Software Engineer.
 
-I build AI-powered applications, Python backends, and production-ready systems. Currently focused on mastering Data Structures & Algorithms while shipping real products under **NiruX**.
+I build practical AI tools, backend systems, and mobile apps. Currently focused on mastering DSA while developing **NiruX** — an AI-powered multi-utility platform.
 
-**Open to** Software Engineering / AI / Full-Stack roles (Remote / Hybrid).
-
----
-
-### 🎯 Current Mission
-
-- Master Data Structures & Algorithms
-- Build **NiruX** — AI multi-utility platform
-- Learn Cloud, System Design & production practices
-- Ship real-world applications
+**Open to Software Engineering / AI / Full-Stack opportunities** (Remote or Hybrid).
 
 ---
 
-### 📊 GitHub Analytics
+### 🔥 What I'm Working On
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</p>
+- Mastering Data Structures & Algorithms
+- Building **NiruX** AI Platform
+- Learning Cloud & System Design
+- Shipping production-ready applications
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devasena-K09&theme=radical&hide_border=true&background=0D1117" />
-</p>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devasena-K09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devasena-K09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Devasena-K09&theme=radical&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+</div>
 
 ---
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devasena-K09&theme=radical&row=1&column=7&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### 💻 Tech Stack
-
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cs,js,flutter,firebase,git,github,vscode,androidstudio&theme=dark" />
-</p>
+</div>
 
 ---
 
 ### 🧠 DSA Progress
 
-| Topic                  | Status     |
-|------------------------|------------|
-| Arrays                 | ✅ Done    |
-| Strings                | ✅ Done    |
-| Recursion              | ✅ Done    |
-| Searching              | 🚧 In Progress |
-| Sorting                | 🚧 In Progress |
-| Linked Lists           | 🚧 In Progress |
-| Stacks & Queues        | 🚧 In Progress |
-| Trees                  | 🚧 Upcoming |
-| Graphs                 | 🚧 Upcoming |
-| Dynamic Programming    | 🚧 Upcoming |
-
----
-
-### 🚀 Featured Projects
-
-#### 🤖 NiruX
-AI-powered multi-utility platform featuring:
-- AI Chat
-- Resume Assistant
-- Productivity Tools
-- Future AI Agent Ecosystem
-
-#### 💬 Real-Time Chat Application
-- Python + REST APIs
-- WebSockets
-- Session Management
-- Real-time Communication
-
-#### 🤖 Commercial Robotic Cleaner
-- Embedded Systems
-- Sensors & Control Systems
-- Hardware Integration
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=radical&hide_border=true&area=true&bg_color=0D1117" width="100%"/>
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Devasena-K09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=140&section=footer&text=Building%20Today%20For%20Tomorrow&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
+```text
+Arrays              ████████████████████  Done
+Strings             ████████████████████  Done
+Recursion           ████████████████████  Done
+Searching           ██████████████░░░░░░  In Progress
+Sorting             ██████████████░░░░░░  In Progress
+Linked Lists        ████████░░░░░░░░░░░░  In Progress
+Stacks & Queues     ████████░░░░░░░░░░░░  In Progress
+Trees               ░░░░░░░░░░░░░░░░░░░░  Upcoming
+Graphs              ░░░░░░░░░░░░░░░░░░░░  Upcoming
+Dynamic Programming ░░░░░░░░░░░░░░░░░░░░  Upcoming
