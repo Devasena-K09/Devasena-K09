@@ -92,16 +92,6 @@
 
 ---
 
-# 🏆 Achievement Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devasena-K09&theme=radical&row=1&column=7"/>
-
-</div>
-
----
-
 # 📈 Activity Graph
 
 <div align="center">
@@ -140,6 +130,13 @@
 </p>
 
 ---
+
+# 🛠️ Recent Builds
+
+- 🌦️ Weather Application
+- ✅ Todo Application
+- 🤖 NiruX Platform
+- 📚 DSA-Python Repository
 
 # 🧠 DSA Journey
 
