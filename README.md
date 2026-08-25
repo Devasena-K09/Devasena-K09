@@ -48,14 +48,37 @@
 
 ---
 
-# 🚀 Featured Repositories
+# 🚀 Featured Projects
 
-| Repository | Description |
-|------------|------------|
-| ⭐ DSA-Python | Data Structures and Algorithms in Python |
-| ⭐ OOP-Python | Object Oriented Programming Concepts |
-| ⭐ SQL-Practice | SQL Interview Preparation |
-| ⭐ NiruX | AI Platform Project |
+### 🤖 NiruX
+- AI-powered multi-utility platform
+- AI Chat + Productivity Tools
+- Resume Assistant
+- Future AI Agent Ecosystem
+
+---
+
+### 🌦️ Weather App
+- Real-time Weather Data
+- API Integration
+- Responsive UI
+- Clean User Experience
+
+---
+
+### ✅ Todo App
+- Task Creation & Management
+- Mark Complete / Pending
+- Simple Productivity Tool
+- Clean Interface
+
+---
+
+### 📚 DSA-Python
+- 100+ DSA Problems
+- Python Solutions
+- Interview Preparation
+- Structured Learning Path
 
 ---
 
