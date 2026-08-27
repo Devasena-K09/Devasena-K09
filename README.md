@@ -56,21 +56,40 @@
 - Resume Assistant
 - Future AI Agent Ecosystem
 
+🔗 Repository: https://github.com/Devasena-K09/NiruX
+
 ---
 
 ### 🌦️ Weather App
 - Real-time Weather Data
 - API Integration
 - Responsive UI
-- Clean User Experience
+- Dynamic Weather Conditions
+
+🔗 Repository: https://github.com/Devasena-K09/weather-app
 
 ---
 
 ### ✅ Todo App
 - Task Creation & Management
 - Mark Complete / Pending
-- Simple Productivity Tool
-- Clean Interface
+- Clean Productivity Interface
+- Local Storage Support
+
+🔗 Repository: https://github.com/Devasena-K09/todo-app
+
+---
+
+### 🔥 Blog API
+- RESTful CRUD API built with Flask
+- SQLite Database Integration
+- SQLAlchemy ORM
+- Create, Read, Update & Delete Blog Posts
+- Tested API endpoints using Python Requests
+
+**Tech Stack:** Python, Flask, SQLAlchemy, SQLite
+
+🔗 Repository: https://github.com/Devasena-K09/blog-api
 
 ---
 
@@ -80,7 +99,10 @@
 - Interview Preparation
 - Structured Learning Path
 
+🔗 Repository: https://github.com/Devasena-K09/DSA-Python
+
 ---
+
 
 # 💻 Tech Stack
 
@@ -113,6 +135,7 @@
 
 # 🛠️ Recent Builds
 
+- 🔥 Blog API (Flask + SQLAlchemy + SQLite)
 - 🌦️ Weather Application
 - ✅ Todo Application
 - 🤖 NiruX Platform
@@ -141,7 +164,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🏗️ Other Projects
 
 ## 🤖 NiruX
 
