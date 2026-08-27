@@ -82,26 +82,6 @@
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devasena-K09&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devasena-K09&theme=react-dark"/>
-
-</div>
-
----
-
 # 💻 Tech Stack
 
 ### Languages
