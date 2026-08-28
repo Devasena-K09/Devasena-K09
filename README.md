@@ -76,7 +76,7 @@
 - Clean Productivity Interface
 - Local Storage Support
 
-🔗 Repository: https://github.com/Devasena-K09/todo-app
+🔗 Repository: https://github.com/Devasena-K09/todo-app-flutter
 
 ---
 
