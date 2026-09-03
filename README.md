@@ -200,16 +200,6 @@ Engineering project featuring:
 
 ---
 
-# 🎯 2026 Goals
-
-- Complete DSA roadmap
-- Strengthen GitHub portfolio
-- Build NiruX ecosystem
-- Learn Cloud & System Design
-- Secure Software Engineering role
-
----
-
 # 📫 Connect With Me
 
 <div align="center">
