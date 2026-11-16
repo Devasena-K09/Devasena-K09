@@ -91,12 +91,16 @@ A social communication platform built to bring conversations and interactive exp
 
 # 🚀 Featured Projects
 
-### 🤖 NiruX
-AI-powered learning platform.
+### 🤖 NiruX — AI-Powered Learning Platform
 
-**Tech Focus:** AI, Python, Flutter, Firebase
+An intelligent learning ecosystem designed to make education smarter, more personalized, and accessible.
 
-🔗 https://github.com/Devasena-K09/NiruX
+**Key Areas:**
+- AI-powered learning assistance
+- Exam preparation and mock tests
+- Coding practice and challenges
+- Personalized learning experiences
+- Progress tracking and analytics
 
 ---
 
@@ -246,9 +250,9 @@ Next-generation social messenger and interactive communication platform.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://questtitan.in">
-<img src="https://img.shields.io/badge/NiruX-8957FF?style=for-the-badge"/>
-</a>
+🌐 Website: https://questtitan.in  
+🚀 Platform: https://ai.questtitan.in  
+💻 GitHub: https://github.com/Devasena-K09/NiruX
 
 <a href="https://titanchatx.questtitan.in">
 <img src="https://img.shields.io/badge/TitanChatX-080812?style=for-the-badge"/>
