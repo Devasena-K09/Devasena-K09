@@ -1,12 +1,18 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVASENA%20K&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:ff003c,100:111111"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVASENA%20K&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:8957FF,100:080812"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=800&color=FF003C&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Builder;Python+Developer;Building+NiruX;Learning+DSA;Future+Tech+Founder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2500&pause=800&color=8957FF&center=true&vCenter=true&width=950&lines=Founder+%26+Product+Builder;Software+Engineer;Building+NiruX+AI;Building+TitanChatX;AI+%26+Technology+Enthusiast;Turning+Ideas+Into+Products"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=PROFILE+VIEWS&color=ff003c&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=PROFILE+VIEWS&color=8957FF&style=for-the-badge"/>
+
+<br><br>
+
+**FOUNDER | ENGINEER | PRODUCT BUILDER**
+
+*Building technology. Creating experiences. Turning ambitious ideas into reality.*
 
 </div>
 
@@ -14,137 +20,174 @@
 
 # 🚀 About Me
 
+I'm Devasena K — a Software Engineer, Founder, and Product Builder passionate about creating technology-driven products.
+
+- 🚀 Founder & Builder of **NiruX**
+- 💬 Founder & Builder of **TitanChatX**
+- 🤖 Exploring AI, intelligent systems, and next-generation applications
+- 💻 Software Development & Product Engineering
 - 🎓 B.E. in Electrical & Electronics Engineering
-- 💻 Software Engineer & Python Developer
-- 🤖 Building **NiruX AI Platform**
-- ☁️ Exploring Cloud Technologies & Generative AI
-- 📚 Learning Data Structures & Algorithms
-- 🚀 Passionate about building real-world software products
+- 🌱 Constantly learning, experimenting, and building real-world products
+
+**My philosophy:** Don't just learn technology. Build something meaningful with it.
+
+---
+
+# 🏢 Companies & Products I'm Building
+
+## 🤖 NiruX — AI-Powered Learning Platform
+
+<img src="https://img.shields.io/badge/PRODUCT-AI%20%26%20LEARNING-8957FF?style=for-the-badge"/>
+
+An AI-powered learning ecosystem designed to make learning smarter, more personalized, and accessible.
+
+**Core Focus:**
+- AI-powered learning assistance
+- Exam preparation and mock tests
+- Coding practice and challenges
+- Personalized learning experiences
+- Progress tracking and analytics
+- Career and productivity tools
+
+**Website:** https://questtitan.in  
+**Platform:** https://ai.questtitan.in  
+**GitHub:** https://github.com/Devasena-K09/NiruX
+
+---
+
+## 💬 TitanChatX — Next-Generation Social Messenger
+
+<img src="https://img.shields.io/badge/PRODUCT-SOCIAL%20%26%20COMMUNICATION-8957FF?style=for-the-badge"/>
+
+A social communication platform built to bring conversations and interactive experiences together.
+
+**Product Vision:**
+- Real-time messaging
+- Interactive social experiences
+- Vibe Rooms and shared spaces
+- Voice hangouts
+- Music and entertainment experiences
+- Personalized social interactions
+
+**Website:** https://titanchatx.questtitan.in  
+**Android Releases:** https://github.com/Devasena-K09/TitanChatX-Releases
+
+*CHAT. PLAY. DOMINATE.*
 
 ---
 
 # ⚔️ Current Focus
 
-- Data Structures & Algorithms
-- Python Development
-- AI Applications
-- Flutter Development
+- Building and scaling NiruX
+- Developing TitanChatX
+- AI and Generative AI applications
+- Full-Stack Development
+- Flutter & Android Development
 - Cloud Technologies
-- System Design Fundamentals
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
+- Product Architecture and System Design
+- Data Structures & Algorithms
 
 ---
 
 # 🚀 Featured Projects
 
 ### 🤖 NiruX
-- AI-powered multi-utility platform
-- AI Chat + Productivity Tools
-- Resume Assistant
-- Future AI Agent Ecosystem
+AI-powered learning platform.
 
-🔗 Repository: https://github.com/Devasena-K09/NiruX
+**Tech Focus:** AI, Python, Flutter, Firebase
+
+🔗 https://github.com/Devasena-K09/NiruX
+
+---
+
+### 💬 TitanChatX
+Next-generation social messenger and interactive communication platform.
+
+**Tech Focus:** Flutter, Firebase, Android Development
+
+🔗 https://github.com/Devasena-K09/TitanChatX-Releases
 
 ---
 
 ### 🌦️ Weather App
-- Real-time Weather Data
-- API Integration
+- Real-time weather data
+- API integration
 - Responsive UI
-- Dynamic Weather Conditions
+- Dynamic weather conditions
 
-🔗 Repository: https://github.com/Devasena-K09/weather-app
+🔗 https://github.com/Devasena-K09/weather-app
 
 ---
 
 ### ✅ Todo App
-- Task Creation & Management
-- Mark Complete / Pending
-- Clean Productivity Interface
-- Local Storage Support
+- Task creation and management
+- Mark complete / pending
+- Productivity interface
+- Local storage support
 
-🔗 Repository: https://github.com/Devasena-K09/todo-app-flutter
+🔗 https://github.com/Devasena-K09/todo-app-flutter
 
 ---
 
 ### 🔥 Blog API
 - RESTful CRUD API built with Flask
-- SQLite Database Integration
+- SQLite database integration
 - SQLAlchemy ORM
-- Create, Read, Update & Delete Blog Posts
-- Tested API endpoints using Python Requests
+- API endpoint testing
 
 **Tech Stack:** Python, Flask, SQLAlchemy, SQLite
 
-🔗 Repository: https://github.com/Devasena-K09/blog-api
+🔗 https://github.com/Devasena-K09/blog-api
 
 ---
 
 ### 📚 DSA-Python
-- 100+ DSA Problems
-- Python Solutions
-- Interview Preparation
-- Structured Learning Path
+- 100+ DSA problems
+- Python solutions
+- Interview preparation
+- Structured learning path
 
-🔗 Repository: https://github.com/Devasena-K09/DSA-Python
+🔗 https://github.com/Devasena-K09/DSA-Python
 
 ---
-
 
 # 💻 Tech Stack
 
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cs" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-
+<img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript"/>
 </p>
 
-### Frameworks & Tools
+### Frameworks & Platforms
 
 <p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,flask"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=flutter" />
-<img src="https://skillicons.dev/icons?i=firebase" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=androidstudio" />
+### Tools & Technologies
 
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
 </p>
 
 ---
 
 # 🛠️ Recent Builds
 
-- 🔥 Blog API (Flask + SQLAlchemy + SQLite)
+- 🤖 NiruX — AI-powered learning ecosystem
+- 💬 TitanChatX — Social communication platform
+- 🔥 Blog API — Flask REST API
 - 🌦️ Weather Application
-- ✅ Todo Application
-- 🤖 NiruX Platform
-- 📚 DSA-Python Repository
+- ✅ Flutter Todo Application
+- 📚 DSA-Python
+
+---
 
 # 🧠 DSA Journey
 
 | Topic | Status |
-|---------|---------|
+|---|---|
 | Arrays | ✅ |
 | Strings | ✅ |
 | Recursion | ✅ |
@@ -164,39 +207,34 @@
 
 ---
 
-# 🏗️ Other Projects
+# 🐍 Contribution Snake
 
-## 🤖 NiruX
+<div align="center">
 
-AI-powered multi-utility platform focused on:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+</picture>
 
-- AI Chat
-- Productivity Tools
-- Resume Assistant
-- Future AI Agent Ecosystem
-
----
-
-## 💬 Real-Time Chat Application
-
-Built using:
-
-- Python
-- REST APIs
-- WebSockets
-- Session Management
-- Real-time Communication
+</div>
 
 ---
 
-## 🤖 Commercial Robotic Cleaner
+# 🏗️ Engineering Background
 
-Engineering project featuring:
+**Commercial Robotic Cleaner**
+- Embedded systems
+- Sensors and control systems
+- Hardware integration
 
-- Embedded Systems
-- Sensors
-- Control Systems
-- Hardware Integration
+**Home Automation using Arduino UNO**
+- Microcontroller-based automation
+- Hardware and software integration
+
+**Traffic Control using Sensors**
+- Sensor-based control systems
+- Embedded engineering
 
 ---
 
@@ -208,12 +246,22 @@ Engineering project featuring:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://questtitan.in">
+<img src="https://img.shields.io/badge/NiruX-8957FF?style=for-the-badge"/>
+</a>
+
+<a href="https://titanchatx.questtitan.in">
+<img src="https://img.shields.io/badge/TitanChatX-080812?style=for-the-badge"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-## ⚡ BUILDING TODAY FOR TOMORROW ⚡
+## ⚡ BUILDING TODAY. SHAPING TOMORROW.
+
+**Think Big. Build Bold. Create Impact.**
 
 </div>
