@@ -49,9 +49,9 @@ An AI-powered learning ecosystem designed to make learning smarter, more persona
 - Progress tracking and analytics
 - Career and productivity tools
 
-**Website:** https://questtitan.in  
-**Platform:** https://ai.questtitan.in  
-**GitHub:** https://github.com/Devasena-K09/NiruX
+🌐 Website: https://questtitan.in  
+🚀 Platform: https://ai.questtitan.in  
+💻 GitHub: https://github.com/Devasena-K09/NiruX
 
 ---
 
@@ -249,10 +249,6 @@ Next-generation social messenger and interactive communication platform.
 <a href="https://github.com/Devasena-K09">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-🌐 Website: https://questtitan.in  
-🚀 Platform: https://ai.questtitan.in  
-💻 GitHub: https://github.com/Devasena-K09/NiruX
 
 <a href="https://titanchatx.questtitan.in">
 <img src="https://img.shields.io/badge/TitanChatX-080812?style=for-the-badge"/>
