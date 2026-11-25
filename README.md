@@ -1,175 +1,191 @@
- <div align="center">
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=DEVASENA%20K&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:8957FF,100:080812"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=27&duration=2500&pause=800&color=8957FF&center=true&vCenter=true&width=950&lines=Founder+%26+Product+Builder;Software+Engineer;Building+NiruX+AI;Building+TitanChatX;AI+%26+Technology+Enthusiast;Turning+Ideas+Into+Products"/>
-
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=8957FF&center=true&vCenter=true&width=950&lines=Founder+%26+Product+Builder;Software+Engineer;Building+NiruX;Building+TitanChatX;Engineering+Technology+That+Matters"/>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Devasena-K09&label=PROFILE+VIEWS&color=8957FF&style=for-the-badge"/>
 
 <br><br>
 
-**FOUNDER | ENGINEER | PRODUCT BUILDER**
+**FOUNDER | SOFTWARE ENGINEER | PRODUCT BUILDER**
 
-*Building technology. Creating experiences. Turning ambitious ideas into reality.*
+Building technology-driven products and intelligent digital experiences.
+
+*Turning ambitious ideas into meaningful products through engineering and innovation.*
 
 </div>
 
 ---
 
-# 🚀 About Me
+# ABOUT
 
-I'm Devasena K — a Software Engineer, Founder, and Product Builder passionate about creating technology-driven products.
+I'm Devasena K — an independent founder, software engineer, and product builder focused on developing technology-driven products, intelligent systems, and scalable digital experiences.
 
-- 🚀 Founder & Builder of **NiruX**
-- 💬 Founder & Builder of **TitanChatX**
-- 🤖 Exploring AI, intelligent systems, and next-generation applications
-- 💻 Software Development & Product Engineering
-- 🎓 B.E. in Electrical & Electronics Engineering
-- 🌱 Constantly learning, experimenting, and building real-world products
+My work combines software engineering, product development, and entrepreneurial thinking. I enjoy taking ideas from concept to implementation and building products that solve real-world problems.
 
-**My philosophy:** Don't just learn technology. Build something meaningful with it.
+### Ventures
+
+- **NiruX** — AI-powered learning and productivity platform.
+- **TitanChatX** — Social communication and interactive experiences platform.
+
+### Professional Interests
+
+- Artificial Intelligence and Intelligent Systems
+- Software Engineering and Product Development
+- Mobile Application Development
+- System Architecture and Technology
+- Product Strategy and Innovation
+
+### Education
+
+B.E. — Electrical & Electronics Engineering
+
+**My Philosophy**
+
+Build with purpose. Engineer with precision. Create products that make a difference.
 
 ---
 
-# 🏢 Companies & Products I'm Building
+# VENTURES & PRODUCTS
 
-## 🤖 NiruX — AI-Powered Learning Platform
+## NiruX
+### AI-Powered Learning and Productivity Platform
 
 <img src="https://img.shields.io/badge/PRODUCT-AI%20%26%20LEARNING-8957FF?style=for-the-badge"/>
 
-An AI-powered learning ecosystem designed to make learning smarter, more personalized, and accessible.
+NiruX is an AI-powered learning ecosystem focused on making education more personalized, accessible, and effective.
 
-**Core Focus:**
+**Core Product Areas**
+
 - AI-powered learning assistance
 - Exam preparation and mock tests
 - Coding practice and challenges
 - Personalized learning experiences
 - Progress tracking and analytics
-- Career and productivity tools
+- Career development and productivity tools
 
-🌐 Website: https://questtitan.in  
-🚀 Platform: https://ai.questtitan.in  
-💻 GitHub: https://github.com/Devasena-K09/NiruX
+**Explore NiruX**
+
+- Website: https://questtitan.in
+- Platform: https://ai.questtitan.in
+- GitHub: https://github.com/Devasena-K09/NiruX
 
 ---
 
-## 💬 TitanChatX — Next-Generation Social Messenger
+## TitanChatX
+### Next-Generation Social Communication Platform
 
 <img src="https://img.shields.io/badge/PRODUCT-SOCIAL%20%26%20COMMUNICATION-8957FF?style=for-the-badge"/>
 
-A social communication platform built to bring conversations and interactive experiences together.
+TitanChatX is a social communication platform designed to bring messaging, entertainment, and interactive experiences together.
 
-**Product Vision:**
+**Product Vision**
+
 - Real-time messaging
 - Interactive social experiences
 - Vibe Rooms and shared spaces
 - Voice hangouts
 - Music and entertainment experiences
 - Personalized social interactions
+- Interactive gaming experiences
 
-**Website:** https://titanchatx.questtitan.in  
-**Android Releases:** https://github.com/Devasena-K09/TitanChatX-Releases
+**Explore TitanChatX**
 
-*CHAT. PLAY. DOMINATE.*
+- Website: https://titanchatx.questtitan.in
+- Android Releases: https://github.com/Devasena-K09/TitanChatX-Releases
+
+**CHAT. PLAY. DOMINATE.**
 
 ---
 
-# ⚔️ Current Focus
+# CURRENT FOCUS
 
-- Building and scaling NiruX
-- Developing TitanChatX
-- AI and Generative AI applications
-- Full-Stack Development
-- Flutter & Android Development
-- Cloud Technologies
+My current work revolves around building products, improving engineering capabilities, and exploring emerging technologies.
+
+- Developing and improving NiruX
+- Engineering TitanChatX
+- Artificial Intelligence and Generative AI
+- Flutter and Android Development
+- Full-Stack Software Development
+- Cloud Technologies and Backend Systems
 - Product Architecture and System Design
-- Data Structures & Algorithms
+- Data Structures and Algorithms
 
 ---
 
-# 🚀 Featured Projects
+# SELECTED PROJECTS
 
-### 🤖 NiruX — AI-Powered Learning Platform
+### NiruX — AI-Powered Learning Platform
 
-An intelligent learning ecosystem designed to make education smarter, more personalized, and accessible.
+An intelligent learning ecosystem focused on personalized education, AI assistance, exam preparation, and productivity.
 
-**Key Areas:**
-- AI-powered learning assistance
-- Exam preparation and mock tests
-- Coding practice and challenges
-- Personalized learning experiences
-- Progress tracking and analytics
+**Focus:** AI, Learning Systems, Product Engineering
 
----
+### TitanChatX — Social Communication Platform
 
-### 💬 TitanChatX
-Next-generation social messenger and interactive communication platform.
+A next-generation social messenger combining communication with interactive digital experiences.
 
-**Tech Focus:** Flutter, Firebase, Android Development
+**Technology:** Flutter, Firebase, Android Development
 
-🔗 https://github.com/Devasena-K09/TitanChatX-Releases
+[Explore Releases](https://github.com/Devasena-K09/TitanChatX-Releases)
 
----
+### Weather Application
 
-### 🌦️ Weather App
-- Real-time weather data
-- API integration
-- Responsive UI
-- Dynamic weather conditions
+A weather application featuring real-time weather information and dynamic interface updates.
 
-🔗 https://github.com/Devasena-K09/weather-app
+**Focus:** API Integration, Responsive UI, Application Development
 
----
+[View Repository](https://github.com/Devasena-K09/weather-app)
 
-### ✅ Todo App
-- Task creation and management
-- Mark complete / pending
-- Productivity interface
-- Local storage support
+### Flutter Todo Application
 
-🔗 https://github.com/Devasena-K09/todo-app-flutter
+A productivity application for organizing and managing everyday tasks.
 
----
+**Focus:** Flutter, State Management, Local Storage
 
-### 🔥 Blog API
-- RESTful CRUD API built with Flask
-- SQLite database integration
-- SQLAlchemy ORM
-- API endpoint testing
+[View Repository](https://github.com/Devasena-K09/todo-app-flutter)
 
-**Tech Stack:** Python, Flask, SQLAlchemy, SQLite
+### Blog API
 
-🔗 https://github.com/Devasena-K09/blog-api
+A RESTful backend application developed using Flask.
+
+**Technology:** Python, Flask, SQLAlchemy, SQLite
+
+**Focus:** CRUD Operations, Database Integration, REST API Development
+
+[View Repository](https://github.com/Devasena-K09/blog-api)
+
+### DSA-Python
+
+A structured collection of Python solutions for data structures and algorithm problems.
+
+**Focus:** Problem Solving, Algorithms, Interview Preparation
+
+[View Repository](https://github.com/Devasena-K09/DSA-Python)
 
 ---
 
-### 📚 DSA-Python
-- 100+ DSA problems
-- Python solutions
-- Interview preparation
-- Structured learning path
+# TECHNOLOGY STACK
 
-🔗 https://github.com/Devasena-K09/DSA-Python
-
----
-
-# 💻 Tech Stack
-
-### Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cs,javascript"/>
 </p>
 
-### Frameworks & Platforms
+### Frameworks and Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,firebase,flask"/>
 </p>
 
-### Tools & Technologies
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma"/>
@@ -177,81 +193,75 @@ Next-generation social messenger and interactive communication platform.
 
 ---
 
-# 🛠️ Recent Builds
+# ENGINEERING BACKGROUND
 
-- 🤖 NiruX — AI-powered learning ecosystem
-- 💬 TitanChatX — Social communication platform
-- 🔥 Blog API — Flask REST API
-- 🌦️ Weather Application
-- ✅ Flutter Todo Application
-- 📚 DSA-Python
+My engineering background includes academic and practical projects involving embedded systems, automation, sensors, and hardware integration.
+
+### Commercial Robotic Cleaner
+
+- Embedded systems
+- Sensor integration
+- Hardware and control systems
+
+### Home Automation Using Arduino UNO
+
+- Microcontroller-based automation
+- Hardware and software integration
+- Automated control systems
+
+### Traffic Control Using Sensors
+
+- Sensor-based traffic control
+- Embedded engineering
+- Automation systems
 
 ---
 
-# 🧠 DSA Journey
+# DATA STRUCTURES & ALGORITHMS
 
-| Topic | Status |
+A structured learning and problem-solving journey covering:
+
+| Area | Topics |
 |---|---|
-| Arrays | ✅ |
-| Strings | ✅ |
-| Recursion | ✅ |
-| Searching | ✅ |
-| Sorting | ✅ |
-| Linked Lists | ✅ |
-| Stacks | ✅ |
-| Queues | ✅ |
-| Trees | ✅ |
-| Graphs | ✅ |
-| Dynamic Programming | ✅ |
-| Backtracking | ✅ |
-| Greedy | ✅ |
-| Hashing | ✅ |
-| Binary Search Tree | ✅ |
-| SQL | ✅ |
+| Fundamentals | Arrays, Strings, Hashing |
+| Algorithms | Searching, Sorting, Recursion |
+| Data Structures | Linked Lists, Stacks, Queues |
+| Trees | Trees, Binary Search Trees |
+| Graphs | Graph Traversal and Algorithms |
+| Problem Solving | Greedy, Backtracking |
+| Advanced Concepts | Dynamic Programming |
+| Databases | SQL |
 
 ---
 
-# 🐍 Contribution Snake
+# GITHUB CONTRIBUTIONS
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Animation" src="https://raw.githubusercontent.com/Devasena-K09/Devasena-K09/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-# 🏗️ Engineering Background
-
-**Commercial Robotic Cleaner**
-- Embedded systems
-- Sensors and control systems
-- Hardware integration
-
-**Home Automation using Arduino UNO**
-- Microcontroller-based automation
-- Hardware and software integration
-
-**Traffic Control using Sensors**
-- Sensor-based control systems
-- Embedded engineering
-
----
-
-# 📫 Connect With Me
+# CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Devasena-K09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://titanchatx.questtitan.in">
-<img src="https://img.shields.io/badge/TitanChatX-080812?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TitanChatX-080812?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://questtitan.in">
+<img src="https://img.shields.io/badge/NiruX-8957FF?style=for-the-badge&logoColor=white"/>
 </a>
 
 </div>
@@ -260,7 +270,9 @@ Next-generation social messenger and interactive communication platform.
 
 <div align="center">
 
-## ⚡ BUILDING TODAY. SHAPING TOMORROW.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080812,100:8957FF&height=120&section=footer"/>
+
+### BUILDING TODAY. SHAPING TOMORROW.
 
 **Think Big. Build Bold. Create Impact.**
 
